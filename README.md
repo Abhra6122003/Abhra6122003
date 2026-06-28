@@ -1,5 +1,8 @@
-# 💫 About Me:
-🎓 Final-year B.Tech Electrical Engineering student passionate about Power Systems, Embedded Systems, UAVs, Cloud Computing, and Software Development.<br><br>⚡ Building innovative projects in smart energy, automation, and software engineering, including UAV systems, cloud applications, and coding platforms.<br><br>💻 Skilled in C, Python, SQL, Arduino, Power Systems, Control Systems, and Data Structures & Algorithms.<br><br>🚀 Exploring opportunities at the intersection of Electrical Engineering and Technology.
+Hi there 👋, I'm Abhrajyoti Kayal
+
+🎓 Electrical Engineering undergraduate at NIT Durgapur with a growing passion for Software Development, Python, Machine Learning, and IoT.
+
+I enjoy transforming ideas into practical applications by building projects that combine software with real-world engineering problems. My interests span Python development, backend programming, data structures & algorithms, SQL, and embedded systems.
 
 
 ## 🌐 Socials:
